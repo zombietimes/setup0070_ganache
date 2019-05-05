@@ -15,9 +15,9 @@ I focus on Ethereum and Loom Network as the DApps.
 Ganache is the private Ethereum blockchain for a test.  
 Ganache is by produced by Truffle framework team.  
 It is useful to develop using Ganache, Truffle framework, and Meta mask wallet.  
-[Ganache : Official](https://truffleframework.com/docs/ganache/overview)  
-[Truffle : Official](https://truffleframework.com/)  
-[Meta mask wallet: Official](https://metamask.io/)  
+- [Ganache : Official](https://truffleframework.com/docs/ganache/overview)  
+- [Truffle : Official](https://truffleframework.com/)  
+- [Meta mask wallet: Official](https://metamask.io/)  
 
 ### Constitution
 [setup0000_all](https://github.com/zombietimes/setup0000_all) is the instruction script file to run the other script files.  
@@ -53,12 +53,12 @@ git clone https://github.com/zombietimes/setup0070_ganache.git
 cd setup0070_ganache
 sh ./ubuntuCmd_setupGanache.sh
 ```
-![setup0070_ganache_0000.png]()  
-![setup0070_ganache_0001.png]()  
-![setup0070_ganache_0002.png]()  
-![setup0070_ganache_0003.png]()  
-![setup0070_ganache_0004.png]()  
-![setup0070_ganache_0005.png]()  
+![setup0070_ganache_0000](https://user-images.githubusercontent.com/50263232/57186311-ffea8000-6f17-11e9-8d13-5155c6e3b552.png)  
+![setup0070_ganache_0001](https://user-images.githubusercontent.com/50263232/57186313-0ed13280-6f18-11e9-9ebe-eaa7954b1fc3.png)  
+![setup0070_ganache_0002](https://user-images.githubusercontent.com/50263232/57186316-26a8b680-6f18-11e9-8449-f2d1d868b96a.png)  
+![setup0070_ganache_0003](https://user-images.githubusercontent.com/50263232/57186320-3627ff80-6f18-11e9-9eb7-b2929e7baff3.png)  
+![setup0070_ganache_0004](https://user-images.githubusercontent.com/50263232/57186327-450eb200-6f18-11e9-956d-cdc87282f6d2.png)  
+![setup0070_ganache_0005](https://user-images.githubusercontent.com/50263232/57186332-548dfb00-6f18-11e9-9e70-6e3808fa12f0.png)  
 
 ### How to run Ganache
 After run it by the command below,  
@@ -68,8 +68,8 @@ add to the favarites list.
 cd ~/Downloads
 ./Ganache*.AppImage
 ```
-![setup0070_ganache_0006.png]()  
-![setup0070_ganache_0007.png]()  
+![setup0070_ganache_0006](https://user-images.githubusercontent.com/50263232/57186337-65d70780-6f18-11e9-897e-229d42c0aa9d.png)  
+![setup0070_ganache_0007](https://user-images.githubusercontent.com/50263232/57186341-71c2c980-6f18-11e9-9939-ed7f1d85a8e2.png)  
 
 ## Requirement
 I confirmed that it works on Ubuntu Desktop 18.04 in VirtualBox.  
@@ -77,25 +77,25 @@ It works on the environment below.
 - On Ubuntu.
 - Google Chrome.
 
-## Relative links
+## Relative link
 ### Overview
-[Ethereum : Official](https://www.ethereum.org/)  
-[Ethereum : Wikipedia](https://en.wikipedia.org/wiki/Ethereum)  
-[Loom Network : Official](https://loomx.io/)  
-[Loom Network : Binance wiki](https://info.binance.com/en/currencies/loom-network)  
+- [Ethereum : Official](https://www.ethereum.org/)
+- [Ethereum : Wikipedia](https://en.wikipedia.org/wiki/Ethereum)
+- [Loom Network : Official](https://loomx.io/)
+- [Loom Network : Binance wiki](https://info.binance.com/en/currencies/loom-network)
 
 ### Development
-[Online editor : EthFiddle](https://ethfiddle.com/)  
-[Online editor : Remix](https://remix.ethereum.org/)  
+- [Online editor : EthFiddle](https://ethfiddle.com/)
+- [Online editor : Remix](https://remix.ethereum.org/)
 
 ### Learning
-[Online learning : CryptoZombies](https://cryptozombies.io/)  
-[Grammar : Solidity](https://solidity.readthedocs.io/)  
-[Grammar : Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)  
+- [Online learning : CryptoZombies](https://cryptozombies.io/)
+- [Grammar : Solidity](https://solidity.readthedocs.io/)
+- [Grammar : Best Practices](https://github.com/ConsenSys/smart-contract-best-practices)
 
 ### DApps
-[DApps : CryptoKitties](https://www.cryptokitties.co/)  
-[DApps : Zombie Battle ground](https://loom.games/en/)  
+- [DApps : CryptoKitties](https://www.cryptokitties.co/)
+- [DApps : Zombie Battle ground](https://loom.games/en/)
 
 ## Messages
 Do you believe that the decentralized world is coming?  
@@ -104,7 +104,4 @@ Why?
 
 ## License
 BSD 3-Clause, see `LICENSE` file for details.  
-
----
-Produced by Zombie Times  
 
